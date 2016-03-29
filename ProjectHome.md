@@ -1,0 +1,1 @@
+this project is rabc manager.the function is common enterprise manager system.the system obtains spring-core,spring-security,spring-mvc,extjs,hibernate
